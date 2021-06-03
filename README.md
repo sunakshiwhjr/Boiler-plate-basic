@@ -1,2 +1,2 @@
-# Boiler-plate-basic
-play.js, css, html
+# asynchronousBallMovement
+Boiler plate for ball moving aysnchronously
